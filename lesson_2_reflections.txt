@@ -5,3 +5,6 @@ in it.
 Staging area is the first area where our files will reach before commit. It is different from
 working directory and repository as it will start tracking from this area.
 
+Through staging area it is now easy to differentiate between commited code and staged area
+code and also difference between working directory and staged area this will minimize the
+error and easy our process in committing.
