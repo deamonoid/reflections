@@ -1,0 +1,7 @@
+When I initialize a repository it makes a .git file which means I have succesfully created a 
+repoditory. We need it to convert our directory to repository and start tracking our files 
+in it.
+
+Staging area is the first area where our files will reach before commit. It is different from
+working directory and repository as it will start tracking from this area.
+
