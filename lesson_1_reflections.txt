@@ -1,0 +1,27 @@
+It actually pinpointed the exact location where there was a difference and it was very good.
+I can easily see differences with "-" and "+" sign as I have seen with github before.
+
+Easy access to old version helps make me a very efficient programmer in long term as when I
+will be working on a big project it will help me anaalyse what changes I have made to previos
+versions and when and what features I have added. If I am making a consumer product than it is
+very benificial in that regard too.
+
+Pros of choosing manually commit are that I can add meaningful commit to the code and can
+easily compare between different versions. Cons are that there may be a user error while
+commiting he may forget about commiting or he may commit too soon or too late or even may
+forget.
+
+Google docs treat each file seperately because in many cases they dont have documents that are
+interrelated so thats why they can work by commiting each file seperately. while Git uses
+multiple file approach as it uses mainly for code and we all know that in coding big projects
+there are high chances that files are inteconnected to each other. So, therefore multiple file
+commit makes much more sense.
+
+Git log is used to see different version of files and Git diff to see what changes have been 
+made between two different version of file.
+
+Does it make me more confident after using version control? Yes as it was really easy to point
+out the bug that has caused the whole program to break by checking out previous commit.
+
+After changing themes and configuring my workspace I will try using git for my Android project.
+
