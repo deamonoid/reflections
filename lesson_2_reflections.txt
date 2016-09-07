@@ -8,3 +8,18 @@ working directory and repository as it will start tracking from this area.
 Through staging area it is now easy to differentiate between commited code and staged area
 code and also difference between working directory and staged area this will minimize the
 error and easy our process in committing.
+
+Branches would be helpful when I have to add any experimental change and therefore it will 
+keep my history organized. It will not ruin my main program and whenever I wanted to rever I
+can easily do that.
+
+Diagrams helps us in visualizing the whole repo and then it will become easier to see how
+all branches are connected and when they are made.
+
+When two branch merge together its commit history got merged and the code which are present in
+both the branches got merged too. We represent it in the diagram the way we do as to show that
+both branches commit history have merged.
+
+Pros of automatic merging is that we dont have to always look for code to merge and 
+disadvantage is that it may merge and make code unusable whereas in manual branching
+git will resolve the issue with author disadvantage is that it will become tedious.
