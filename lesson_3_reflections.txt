@@ -9,3 +9,11 @@ up-to-date with your remote repository?
 
 Because maybe we dont want to publish that change publically thats why it is preffered to
 always pull manually rather than automatically
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead 
+of another?
+
+Forks is used when we want to clone repository of other member on Github, it will make a copy
+on github itself. while clone is used to make a copy from github to local or local to local
+whereas branches is used when labelling commit in a single repository.
