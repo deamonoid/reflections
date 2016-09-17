@@ -24,3 +24,13 @@ What is the benefit of having a copy of the last known state of the remote store
 Benefit is that if any one changes anything on online repository then git will let us know
 that there has been a change in repo by letting us know that things are out of sync. And we
 will be able to merge the commit.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would
+be harder?
+
+Without github I will collabraate mnaually by meeting people in person or through social
+media. It would be difficult as there will be lots of conflict in code merging and there
+will be lots of user made mistake. With github people can make changes whenever they want
+they dont have to wait for others to resolve conflict with code. Overall its a huge 
+advantageous tool.
