@@ -17,3 +17,10 @@ of another?
 Forks is used when we want to clone repository of other member on Github, it will make a copy
 on github itself. while clone is used to make a copy from github to local or local to local
 whereas branches is used when labelling commit in a single repository.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Benefit is that if any one changes anything on online repository then git will let us know
+that there has been a change in repo by letting us know that things are out of sync. And we
+will be able to merge the commit.
